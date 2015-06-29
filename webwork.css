@@ -1,0 +1,5 @@
+#selectRecipients, #invertSelection, #clearSelection {
+  cursor: pointer;
+  color: #0000ee;
+  margin: 0 10px;
+}
